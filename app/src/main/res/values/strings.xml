@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="foto">Foto saya</string>
+    <string name="button">Button</string>
+    <string name="nama">Nama : Muhammad Khoirul Anam</string>
+    <string name="nim">NIM : A11.2021.13244</string>
+    <string name="hobi">Hobi : Ngoding</string>
+    <string name="deskripsi">Deskripsi singkat : Saya kuliah di UDINUS sejak 2021</string>
+    <string name="alamat">Alamat</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+</resources>
